@@ -54,6 +54,17 @@
 
 ---
 
+#####删除目录下的所有文件
+*    `rm -rf folder/`
+
+#####复制文件
+*    `cp source_file dest_file`
+
+#####复制目录下的所有文件
+*    `cp -r source_folder/* dest_folder`
+
+---
+
 #####压缩解压
 *    gzip:
 

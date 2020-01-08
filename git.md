@@ -53,5 +53,10 @@ git config --list
 # 设置提交代码时的用户信息
 git config --global user.name "xxx"
 git config --global user.email "xxx@xxx.cn"
+
+#若ssh不生效，可以修改config文件的remote为https方式
+git config --local -e
+
+https://username:pwd@github.com/repo.git
 ```
 
