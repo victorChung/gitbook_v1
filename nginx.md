@@ -1,6 +1,12 @@
 #####配置文件位置
-*    `/usr/local/etc/nginx/`
 
+```
+#mbp
+/usr/local/etc/nginx/
+
+#centOS
+/usr/local/nginx/
+```
 
 #####安装目录  
 *    `open /usr/local/Cellar/nginx`
