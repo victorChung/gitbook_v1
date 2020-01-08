@@ -1,6 +1,10 @@
 # Summary
 * [Mac](mac.md)
 * [iterm2](iterm2.md)
+* [git >](git.md)
+  * [repo](git-repo.md)
+  * [revert-file](git-revert-file.md)
+  * [reset](git-reset.md)
 * [nginx](nginx.md)
 * [supervisor](supervisor.md)
 * [mysql](mysql.md)
