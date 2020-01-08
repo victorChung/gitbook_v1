@@ -1,9 +1,0 @@
-{
-    "title": "victor's note",
-    "author": "victor.Chung",
-    "language": "zh-hans",
-    "plugins": [
-        "-sharing",
-        "toggle-chapters"
-    ]
-}
