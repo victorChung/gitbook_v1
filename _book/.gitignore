@@ -2,7 +2,7 @@
 run.sh
 Thumbs.db
 Desktop.ini
-_book/
+# _book/
 node_modules/
 bak/
 bower_components/
