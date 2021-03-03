@@ -32,7 +32,7 @@
 #####建立软链接
 *    `ln -s /usr/local/python27/bin/uwsgi /usr/bin/uwsgi`
 
-*    `sudo ln -s /usr/local/bin/python3 /usr/bin/python`a
+*    `sudo ln -s /usr/local/bin/python3 /usr/bin/python`
 #####删除软链接
 *    `rm uwsgi`
 

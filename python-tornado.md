@@ -9,6 +9,11 @@
 
 *    `. venv/bin/active`
 
+#####退出环境 
+
+*    `deactivate `
+
+
 #####安装tornado
 
 *    `pip3 install tornado`
