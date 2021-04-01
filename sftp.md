@@ -8,7 +8,7 @@
 *    `put local_path remote_path`
 *    `例如：put -r /home/share/read.txt /home/root`
 
-#####上传文件夹以文件夹里的所有内容
+#####上传文件夹以及文件夹里的所有内容
 *    `put -r /home/share/folder/* /home/root/folder`
 
 
@@ -17,5 +17,5 @@
 *    `例如：get -r /usr/local/some.zip /home/share`
 
 
-#####下载文件夹以文件夹里的所有内容
+#####下载文件夹以及文件夹里的所有内容
 *    `get -r /usr/local/folder/* /home/share/folder`
