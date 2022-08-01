@@ -31,6 +31,7 @@
 * [vscode](vscode.md)
 * [nvm](nvm.md)
 * [npm](npm.md)
+* [rollup](rollup.md)
 * [sftp](sftp.md)
 * [ex](ex.md)
 * [公众号开发](ex.md)
