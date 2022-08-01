@@ -1,0 +1,9 @@
+name: gitbook action demo
+on: [push] 
+jobs:
+  just-a-job-name:
+    runs-on: self-hosted
+    steps:
+      - run: echo "try to run an echo msg"
+      - run: git --version
+      - run: echo date
