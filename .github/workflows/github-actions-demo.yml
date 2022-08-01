@@ -6,5 +6,4 @@ jobs:
     steps:
       - run: echo "try to run an echo msg"
       - run: git --version
-      - run: newTime=`date +%F-%H-%M-%S-%N.zip`
-      - run: echo $newTime
+      - run: echo `date +%F-%H-%M-%S-%N.zip`
